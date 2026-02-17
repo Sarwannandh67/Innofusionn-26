@@ -7,6 +7,13 @@
 ![Stars](https://img.shields.io/github/stars/Sarwannandh67/Innofusionn-26?style=social)
 
 ---
+<p align="center">
+  <a href="https://github.com/Sarwannandh67/Innofusionn-26/blob/main/Network_Security_Analysis_Hackathon.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+</p>
+
+---
 
 ## 📘 Executive Overview
 This project presents a cybersecurity analytics workflow designed to analyze structured network telemetry, classify malicious behaviour, and prioritize threats using interpretable machine learning.  
