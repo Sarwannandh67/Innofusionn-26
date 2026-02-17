@@ -19,6 +19,8 @@
 This project presents a cybersecurity analytics workflow designed to analyze structured network telemetry, classify malicious behaviour, and prioritize threats using interpretable machine learning.  
 The approach focuses on behavioural indicators — packet characteristics, anomaly scoring, protocol usage, and temporal activity — mirroring modern Security Operations Center (SOC) investigation practices.
 
+## Domain
+*Cyber Security*
 ---
 
 ## 🎯 Problem Context
